@@ -1,0 +1,58 @@
+{
+  "_comment": "Retiree, recently widowed. Shopping is habit and loneliness-fill. Deep attachment to objects and their histories. Wants to simplify for legacy reasons. Most productive in gratitude and flourish skills.",
+  "user_id": "usr_103",
+  "display_name": "Dorothy Okafor",
+  "mode": "individual",
+  "onboarded": true,
+  "session_count": 31,
+  "last_active": "2024-01-15T16:00:00Z",
+
+  "values": ["legacy", "simplicity", "giving", "nature", "family"],
+  "flourishing_vision": "Passing on what matters, not what I accumulated.",
+
+  "trigger_patterns": {
+    "confirmed": ["loneliness", "habit"],
+    "suspected": ["grief"],
+    "time_patterns": ["weekday_afternoons", "after_grandchildren_visits_end"]
+  },
+
+  "fundamental_needs_profile": {
+    "subsistence": "secure — not a driver",
+    "protection": "secure financially; emotional security is thinner since husband passed",
+    "affection": "PRIMARY need — children are grown and distant; husband gone; grandchildren sporadic",
+    "understanding": "strong; reads; curious about the world",
+    "participation": "strong desire to contribute but unclear how — volunteering inconsistent",
+    "leisure": "present but hollow — 'I have all the time and don't know what to do with it'",
+    "creation": "returned to painting — this is a genuine breakthrough, should be nurtured",
+    "identity": "in transition — was 'wife and mother'; now reforming sense of self",
+    "freedom": "objectively has more freedom than ever; doesn't feel free"
+  },
+
+  "pause_settings": {
+    "default_duration_hours": 72,
+    "active_pauses": []
+  },
+
+  "skill_usage_counts": {
+    "welcome": 1,
+    "examine": 22,
+    "gratitude": 19,
+    "flourish": 18,
+    "celebrate": 11,
+    "pattern": 4,
+    "commons": 2,
+    "circle": 3,
+    "needs-map": 8,
+    "reframe": 6,
+    "pause": 3
+  },
+
+  "communication_preferences": {
+    "response_length": "expansive",
+    "question_style": "few_at_once",
+    "check_in_frequency": "weekly",
+    "flourish_last_area": "connection"
+  },
+
+  "_agent_notes": "Dorothy benefits from being heard more than redirected. Let her talk. The gratitude skill works well for her because she genuinely feels it — don't rush her there, just open the door. Her painting practice is sacred ground — celebrate it, don't examine it. The loneliness is real and deep; she sometimes shops to have a reason to leave the house. Name this only if she does — don't lead there."
+}

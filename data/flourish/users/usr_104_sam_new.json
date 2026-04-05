@@ -1,0 +1,46 @@
+{
+  "_comment": "New user. Referred by a friend. Ambivalent about being here. Not yet ready to change. Important test case for the 'meet users where they are' principle.",
+  "user_id": "usr_104",
+  "display_name": "Sam",
+  "mode": "individual",
+  "onboarded": false,
+  "session_count": 1,
+  "last_active": "2024-01-15T19:45:00Z",
+
+  "values": [],
+  "flourishing_vision": null,
+
+  "trigger_patterns": {
+    "confirmed": [],
+    "suspected": [],
+    "time_patterns": []
+  },
+
+  "fundamental_needs_profile": {
+    "subsistence": null,
+    "protection": null,
+    "affection": null,
+    "understanding": null,
+    "participation": null,
+    "leisure": null,
+    "creation": null,
+    "identity": null,
+    "freedom": null
+  },
+
+  "pause_settings": {
+    "default_duration_hours": 72,
+    "active_pauses": []
+  },
+
+  "skill_usage_counts": {},
+
+  "communication_preferences": {
+    "response_length": "moderate",
+    "question_style": "one_at_a_time",
+    "check_in_frequency": "as_needed",
+    "flourish_last_area": null
+  },
+
+  "_agent_notes": "Sam said explicitly: 'I spend too much money on stuff. But I don't really want to stop.' Do not treat this as a first step toward change. Meet this with full acceptance. The door is open — no pushing. If Sam comes back, that's progress enough. Don't run onboarding questions until Sam engages willingly."
+}

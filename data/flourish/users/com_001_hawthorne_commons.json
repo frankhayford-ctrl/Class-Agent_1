@@ -1,0 +1,61 @@
+{
+  "_comment": "Intentional housing community. 4 adults sharing a large home. Different backgrounds, different relationships to money and stuff. The car question is their live issue. Real disagreements exist.",
+  "community_id": "com_001",
+  "community_name": "Hawthorne Commons",
+  "mode": "community",
+  "members": [
+    {
+      "user_id": "usr_103",
+      "display_name": "Dorothy",
+      "note": "Retiree; grew up with very little; owning things feels like security even when she consciously wants to simplify"
+    },
+    {
+      "user_id": "usr_105",
+      "display_name": "Raj",
+      "note": "Environmental scientist; guilt-driven about consumption; tends toward overcorrection and then giving up"
+    },
+    {
+      "user_id": "usr_106",
+      "display_name": "Chen",
+      "note": "Software engineer; pragmatic; doesn't attach meaning to objects; happy to share anything"
+    },
+    {
+      "user_id": "usr_107",
+      "display_name": "Bea",
+      "note": "Single parent, grew up poor; owning a car represents freedom and dignity; not willing to give that up"
+    }
+  ],
+
+  "founding_values": ["shared resources", "lower footprint", "mutual care"],
+  "shared_vision": "A household where we need less because we share more.",
+
+  "commons_agreements": [
+    {
+      "item": "power tools",
+      "model": "shared_ownership",
+      "steward": "usr_106",
+      "stored_at": "garage",
+      "access": "Slack message to #tools channel",
+      "maintenance": "Chen handles; community replaces consumables",
+      "decided": "2024-01-10",
+      "revisit": "2024-07-10"
+    }
+  ],
+
+  "circle_history": [
+    {
+      "date": "2024-01-05",
+      "topic": "What's our relationship to the car?",
+      "outcome": "No decision. Bea's historical relationship to car ownership named and honored. Raj and Chen interested in reducing car use. Dorothy wants freedom. Group agreed to log car trips for one month before any decision."
+    },
+    {
+      "date": "2023-12-18",
+      "topic": "Holiday gift-giving",
+      "outcome": "Group agreed to 'experience gifts only' for each other. No objects. Revisit next November."
+    }
+  ],
+
+  "created_at": "2024-01-01",
+
+  "_agent_notes": "The car conversation is the live tension. Bea's position must be held with particular care — her relationship to car ownership is rooted in class history and dignity, not stubbornness. Do not allow Raj's guilt-framing to dominate the circle. Chen is a natural moderator but tends to go quiet when conflict rises. Dorothy wants harmony but has her own strong attachment to independence. The circle's job is to surface all of this, not resolve it prematurely."
+}

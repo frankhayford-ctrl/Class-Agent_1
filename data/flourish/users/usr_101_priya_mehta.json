@@ -1,0 +1,56 @@
+{
+  "_comment": "Stressed professional. Heavy examine/pause usage. Advertising-aware (works in marketing). Tension between her job and her values.",
+  "user_id": "usr_101",
+  "display_name": "Priya Mehta",
+  "mode": "individual",
+  "onboarded": true,
+  "session_count": 18,
+  "last_active": "2024-01-14T21:30:00Z",
+
+  "values": ["simplicity", "presence", "financial freedom", "less clutter"],
+  "flourishing_vision": "A quiet Sunday morning with nothing I need to buy.",
+
+  "trigger_patterns": {
+    "confirmed": ["stress", "fatigue"],
+    "suspected": ["social_comparison"],
+    "time_patterns": ["sunday_evenings", "after_difficult_client_meetings"]
+  },
+
+  "fundamental_needs_profile": {
+    "subsistence": "secure physically; rest is chronically thin",
+    "protection": "anxious — financial security is a recurring theme despite good income",
+    "affection": "strong relationships but often deprioritized for work",
+    "understanding": "high curiosity; reads widely; satisfied",
+    "participation": "works in advertising — ongoing cognitive dissonance about her contribution",
+    "leisure": "nearly absent; 'I keep buying things for hobbies I don't have time for'",
+    "creation": "strongly underserved — hasn't made anything outside work in months",
+    "identity": "active tension: she sells manufactured desire professionally and is aware of it",
+    "freedom": "constrained by career and financial commitments she chose but now questions"
+  },
+
+  "pause_settings": {
+    "default_duration_hours": 72,
+    "active_pauses": []
+  },
+
+  "skill_usage_counts": {
+    "welcome": 1,
+    "examine": 14,
+    "decode": 6,
+    "pause": 9,
+    "reframe": 7,
+    "gratitude": 3,
+    "flourish": 8,
+    "celebrate": 4,
+    "needs-map": 5
+  },
+
+  "communication_preferences": {
+    "response_length": "brief",
+    "question_style": "one_at_a_time",
+    "check_in_frequency": "weekly",
+    "flourish_last_area": "creation"
+  },
+
+  "_agent_notes": "Priya is highly self-aware and can identify advertising mechanics herself. Don't over-explain the decode process — she already knows. Her real work is with the stress-spending pattern. Be brief. She gets it fast."
+}

@@ -1,0 +1,54 @@
+{
+  "_comment": "Young adult. Identity-forming through consumption. Heavy social media use. Wants to feel authentic but purchases feel performative. Responds well to decode skill.",
+  "user_id": "usr_102",
+  "display_name": "Marco Rivera",
+  "mode": "individual",
+  "onboarded": true,
+  "session_count": 7,
+  "last_active": "2024-01-15T00:15:00Z",
+
+  "values": ["authenticity", "adventure", "not being like my parents"],
+  "flourishing_vision": "Living in a way that feels genuinely mine, not curated.",
+
+  "trigger_patterns": {
+    "confirmed": ["social_comparison", "boredom"],
+    "suspected": ["identity_anxiety"],
+    "time_patterns": ["late_night_scrolling", "after_seeing_friends_posts"]
+  },
+
+  "fundamental_needs_profile": {
+    "subsistence": "fine — not a concern",
+    "protection": "moderate; some financial anxiety about the future",
+    "affection": "has friends; surface-level concern about depth of connections",
+    "understanding": "genuinely curious; an area of real strength",
+    "participation": "wants community but finds online community feels performative",
+    "leisure": "decent; enjoys gaming, cooking",
+    "creation": "unexplored — has never had a sustained creative practice",
+    "identity": "PRIMARY need actively forming — purchases feel like statements of self, which he both embraces and is suspicious of",
+    "freedom": "high need — deeply resists anything that feels like obligation or being told what to do"
+  },
+
+  "pause_settings": {
+    "default_duration_hours": 48,
+    "active_pauses": []
+  },
+
+  "skill_usage_counts": {
+    "welcome": 1,
+    "decode": 9,
+    "examine": 5,
+    "needs-map": 3,
+    "reframe": 2,
+    "circle": 1,
+    "celebrate": 1
+  },
+
+  "communication_preferences": {
+    "response_length": "brief",
+    "question_style": "one_at_a_time",
+    "check_in_frequency": "as_needed",
+    "flourish_last_area": "connection"
+  },
+
+  "_agent_notes": "Marco responds badly to anything that feels preachy or like he's being told what to value — his freedom need is dominant. Frame everything as options, never recommendations. His decode sessions are his most productive. Don't suggest /pause — he'll feel managed. Let him ask for it."
+}
