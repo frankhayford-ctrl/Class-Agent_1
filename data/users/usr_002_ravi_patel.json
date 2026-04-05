@@ -1,0 +1,32 @@
+{
+  "_comment": "Example user: Senior Professional / TypeScript. Power user. Reduced guardrail sensitivity.",
+  "user_id": "usr_002",
+  "display_name": "Ravi Patel",
+  "email": "ravi@example.com",
+  "role": "professional",
+  "experience_level": "senior",
+  "primary_language": "TypeScript",
+  "preferred_communication_style": "concise",
+  "guardrail_sensitivity": "reduced",
+  "goals": [
+    "refactor legacy auth system to meet compliance requirements",
+    "improve test coverage from 34% to 80%",
+    "migrate from REST to GraphQL for internal APIs"
+  ],
+  "active_projects": ["proj_auth_refactor", "proj_graphql_migration"],
+  "skill_usage_counts": {
+    "onboard": 1,
+    "review": 89,
+    "checkpoint": 44,
+    "debug": 31,
+    "migrate": 12,
+    "testgen": 18,
+    "rollback": 3,
+    "retrospective": 22,
+    "explain": 7
+  },
+  "session_count": 156,
+  "last_active": "2024-01-15T18:05:00Z",
+  "onboarded": true,
+  "notes": "Explicitly requested 'reduced confirmations' mode on 2024-01-10. HIGH risk guardrails remain on. Does not want trailing summaries — keep responses terse."
+}

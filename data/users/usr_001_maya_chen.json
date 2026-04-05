@@ -1,0 +1,30 @@
+{
+  "_comment": "Example user: Student / Beginner / Python. Heavy explain+debug usage.",
+  "user_id": "usr_001",
+  "display_name": "Maya Chen",
+  "email": null,
+  "role": "student",
+  "experience_level": "beginner",
+  "primary_language": "Python",
+  "preferred_communication_style": "detailed",
+  "guardrail_sensitivity": "standard",
+  "goals": [
+    "learn web development",
+    "build a portfolio project",
+    "understand how APIs work"
+  ],
+  "active_projects": ["proj_flask_portfolio"],
+  "skill_usage_counts": {
+    "onboard": 1,
+    "explain": 47,
+    "debug": 23,
+    "scaffold": 4,
+    "checkpoint": 6,
+    "testgen": 2,
+    "docs": 1
+  },
+  "session_count": 31,
+  "last_active": "2024-01-15T16:42:00Z",
+  "onboarded": true,
+  "notes": "Often asks the same question with slightly different wording — check memory for prior explanations before re-explaining. Responds well to analogies."
+}

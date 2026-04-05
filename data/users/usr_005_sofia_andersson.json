@@ -1,0 +1,31 @@
+{
+  "_comment": "Example user: Hobbyist / Intermediate / JavaScript. Game dev focus. Heavy debug usage.",
+  "user_id": "usr_005",
+  "display_name": "Sofia Andersson",
+  "email": null,
+  "role": "hobbyist",
+  "experience_level": "intermediate",
+  "primary_language": "JavaScript",
+  "preferred_communication_style": "concise",
+  "guardrail_sensitivity": "standard",
+  "goals": [
+    "build a browser-based 3D game",
+    "learn Three.js and WebGL fundamentals",
+    "ship something playable by March"
+  ],
+  "active_projects": ["proj_threejs_game"],
+  "skill_usage_counts": {
+    "onboard": 1,
+    "scaffold": 7,
+    "explain": 14,
+    "debug": 19,
+    "docs": 3,
+    "checkpoint": 9,
+    "testgen": 1,
+    "retrospective": 5
+  },
+  "session_count": 44,
+  "last_active": "2024-01-15T20:15:00Z",
+  "onboarded": true,
+  "notes": "Tends to scaffold repeatedly without reviewing output (see Sequence N5). Nudge toward reviewing existing files before re-scaffolding. Goal is shipping, not perfection — keep suggestions pragmatic."
+}

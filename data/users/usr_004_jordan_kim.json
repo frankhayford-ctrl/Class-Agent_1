@@ -1,0 +1,18 @@
+{
+  "_comment": "Example user: New / Not yet onboarded. No profile data yet. Triggers onboard skill at session start.",
+  "user_id": "usr_004",
+  "display_name": "Jordan Kim",
+  "email": null,
+  "role": null,
+  "experience_level": null,
+  "primary_language": null,
+  "preferred_communication_style": "concise",
+  "guardrail_sensitivity": "standard",
+  "goals": [],
+  "active_projects": [],
+  "skill_usage_counts": {},
+  "session_count": 1,
+  "last_active": "2024-01-15T19:00:00Z",
+  "onboarded": false,
+  "notes": "First session. Onboard skill will run automatically at session start. No prior context available."
+}

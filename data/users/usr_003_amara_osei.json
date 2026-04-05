@@ -1,0 +1,31 @@
+{
+  "_comment": "Example user: Expert Researcher / Python. Prefers Socratic exchange. Uses scaffold+testgen heavily.",
+  "user_id": "usr_003",
+  "display_name": "Dr. Amara Osei",
+  "email": "amara.osei@university.edu",
+  "role": "researcher",
+  "experience_level": "expert",
+  "primary_language": "Python",
+  "preferred_communication_style": "socratic",
+  "guardrail_sensitivity": "standard",
+  "goals": [
+    "prototype NLP pipeline for multilingual sentiment analysis",
+    "reproduce results from Sennrich et al. 2016 BPE paper",
+    "publish reproducible research artifacts"
+  ],
+  "active_projects": ["proj_nlp_pipeline"],
+  "skill_usage_counts": {
+    "onboard": 1,
+    "scaffold": 18,
+    "explain": 9,
+    "testgen": 6,
+    "docs": 4,
+    "checkpoint": 11,
+    "debug": 3,
+    "retrospective": 8
+  },
+  "session_count": 22,
+  "last_active": "2024-01-14T11:30:00Z",
+  "onboarded": true,
+  "notes": "Prefers to be asked guiding questions rather than given direct answers ('socratic' style). Expert-level explanations only. Cares deeply about reproducibility — always suggest checkpoints and docs."
+}
